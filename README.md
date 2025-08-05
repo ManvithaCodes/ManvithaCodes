@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Master's in Computer Science, George Mason University (May 2024)  
+- 🎓 Master's in Computer Science, George Mason University  
 - 💻 Former Systems Engineer @ Infosys  
 - 🌱 Currently exploring advanced DevOps tools & scalable microservices  
 - ✨ Skilled in Java, Spring, PL/SQL, Oracle, Docker, Jenkins, Kubernetes
