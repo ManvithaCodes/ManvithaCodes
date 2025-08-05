@@ -83,8 +83,10 @@ Designed full Oracle DB + Java Swing app for customer data tracking and reward s
 
 ### 📫 Get in Touch
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
-(https://www.linkedin.com/in/manvitha-g/)  
+
+<a href="https://www.linkedin.com/in/manvitha-g/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  </a>
 📧 manvitha.gmu@gmail.com
 
 
