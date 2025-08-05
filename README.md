@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I'm John Doe, a Software Engineer</h2>
+<h2 align="center">Hey there! 👋 I'm Manvitha, a Software Engineer</h2>
 
 <p align="center">
   <i>
@@ -96,13 +96,7 @@ Designed full Oracle DB + Java Swing app for customer data tracking and reward s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)  
 📧 yourname@email.com
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&width=435&lines=Thanks+for+visiting+my+profile!+👨‍💻" alt="Typing SVG" />
-</p>
-
----
 
 ### ✨ Final Note
 
