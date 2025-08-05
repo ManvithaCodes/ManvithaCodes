@@ -21,13 +21,7 @@
 
 ---
 
-### 🚀 Tech Stack (GIF Icons – One Line)
-
-Got it! Let's fix that. Here's a **cleaner one-liner version** of your **full tech stack** with as many tools and languages as you’ve shared. I’ll include GIF-style or static logos as needed to represent each category properly and fit them all neatly in one line:
-
----
-
-### 🚀 Tech Stack (Icons in One Line)
+### 🚀 Tech Stack
 
 <p align="center">
   <!-- Programming Languages -->
